@@ -1,4 +1,4 @@
-<h1><b>MERN Todo Dashboard</b></h1>
+<h1><b>TASK MATE</b></h1>
 This is a simple Todo Dashboard built using the MERN stack. Users can add Todos with a title and link, and the Todos are saved to a MongoDB database. The dashboard also includes drag-and-drop functionality for reordering the Todos, and users can check off completed Todos and delete them.
 
 <h2><b>Technologies Used</b></h2>
